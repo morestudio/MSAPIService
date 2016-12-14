@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire" ~> 4.0
+github "mxcl/PromiseKit" ~> 4.0
+github "Hearst-DD/ObjectMapper" ~> 2.2
+github "ReactiveCocoa/ReactiveCocoa" "5.0.0-alpha.3"
+github "SwiftyJSON/SwiftyJSON" ~> 3.1
