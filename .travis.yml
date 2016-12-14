@@ -3,7 +3,7 @@ osx_image: xcode8
 #xcode_project: <>
 xcode_workspace: MSAPIService.xcworkspace
 xcode_scheme: MSAPIService
-xcode_sdk: iphonesimulator9.3
+xcode_sdk: iphonesimulator10.0
 env:
   global: 
     - FRAMEWORK_NAME=MSAPIService
